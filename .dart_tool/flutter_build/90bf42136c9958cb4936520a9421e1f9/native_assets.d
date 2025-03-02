@@ -1,0 +1,1 @@
+ /Users/pablogomez/Documents/GitHub/cardPresentation/.dart_tool/flutter_build/90bf42136c9958cb4936520a9421e1f9/native_assets.yaml: 
